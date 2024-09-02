@@ -7,3 +7,4 @@ for (var i = 0; i < array.length; i++) {
   })(i);
 }
 console.log(array)
+console.log(array)

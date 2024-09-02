@@ -15,4 +15,4 @@ const startOnce = initialize();
 startOnce()
 
 console.log(view);
-console.log(view);
+console.log(view);add line
