@@ -6,3 +6,4 @@ for (var i = 0; i < array.length; i++) {
     }, 3000);
   })(i);
 }
+console.log(array)
